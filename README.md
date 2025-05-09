@@ -138,6 +138,97 @@ Ask follow-up questions when needed to clarify vague or overly positive answers.
 
 ---
 
+## 🧠 Additional Areas to Evaluate (Simplified)
+
+### 8. Onboarding Experience
+
+**Question:**  
+> “What happens when a new engineer joins the team?”
+
+✅ Good signs:
+- There’s a clear plan for the first few weeks  
+- Someone is assigned to help you (mentor or buddy)  
+- Documentation and setup are ready so you can start coding quickly
+
+❌ Red flags:
+- No plan — you're left to figure things out alone  
+- No one to help or guide you  
+- It takes a long time just to set up your computer or tools
+
+---
+
+### 9. Career Growth & Learning
+
+**Question:**  
+> “How do engineers grow in their career here?”  
+> “Do you support learning or training?”
+
+✅ Good signs:
+- Clear paths to promotions or new responsibilities  
+- Regular feedback and 1-on-1 meetings  
+- The company gives time and money for learning new things
+
+❌ Red flags:
+- No clear way to grow or get promoted  
+- No feedback or support for improvement  
+- No learning resources or time to upskill
+
+---
+
+### 10. Decision-Making Process
+
+**Question:**  
+> “How are technical choices made, like picking tools or designing systems?”  
+> “Do engineers help make those decisions?”
+
+✅ Good signs:
+- Engineers are involved in making decisions  
+- They have design discussions or review meetings  
+- Trying new tools or improvements is encouraged
+
+❌ Red flags:
+- Managers or leads decide everything without input  
+- "We've always done it this way" mindset  
+- Engineers don’t feel heard or included
+
+---
+
+### 11. Security & Reliability
+
+**Question:**  
+> “What happens when something breaks in production?”  
+> “Do you have tools to catch problems quickly?”
+
+✅ Good signs:
+- There’s a team or schedule for handling urgent issues  
+- Tools are used to watch and alert when something fails  
+- After a problem, they talk about what went wrong and how to fix it
+
+❌ Red flags:
+- No monitoring or alerts — they only find problems after users complain  
+- No clear way to respond to issues  
+- People blame each other instead of fixing the root cause
+
+---
+
+### 12. Team Communication & Collaboration
+
+**Question:**  
+> “How do engineers from different teams work together?”  
+> “What happens when people disagree on something technical?”
+
+✅ Good signs:
+- Teams talk regularly — through meetings, chats, or shared documents  
+- People listen to each other and discuss ideas openly  
+- It’s easy to work with other teams
+
+❌ Red flags:
+- Teams barely talk to each other  
+- Poor communication leads to confusion or delays  
+- Arguments go unresolved or cause frustration
+
+---
+
 ## ✅ Pro Tips
 
 - Ask to speak with a current engineer.
